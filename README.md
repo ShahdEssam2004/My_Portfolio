@@ -24,7 +24,6 @@ https://shahdessam2004.github.io/CodeAlpha_Portfolio/
 
 - HTML5
 - CSS3
-- JavaScript
 - Bootstrap 5
 - Font Awesome
 
@@ -34,6 +33,7 @@ https://shahdessam2004.github.io/CodeAlpha_Portfolio/
 - About Me
 - Skills
 - Services
+- Resume
 - Projects
 - Contact
 
