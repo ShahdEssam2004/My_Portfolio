@@ -41,9 +41,6 @@ https://shahdessam2004.github.io/CodeAlpha_Portfolio/
 
 This portfolio website was developed to present my front-end development skills, highlight my projects, and provide an overview of my experience and learning journey.
 
-## 📸 Preview
-
-![Website Preview](Images/preview.png)
 
 ## 👩‍💻 Author
 
